@@ -1,1 +1,2 @@
 # Drugs_Response_Prediction-Using-AI-Model
+This project aims to predict patient responses to various drugs using artificial intelligence techniques. By analyzing a dataset containing patient characteristics and drug responses, the model leverages machine learning algorithms to identify patterns and make accurate predictions. The goal is to enhance personalized medicine, enabling healthcare providers to tailor treatments based on predicted drug efficacy for individual patients.
